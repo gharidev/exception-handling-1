@@ -1,5 +1,5 @@
 try:
-    x = 1 / 1
+    x = 1 / 0
     print(name)
 except NameError:
     print("Division by zero is not possible.")
